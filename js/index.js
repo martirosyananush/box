@@ -1,6 +1,6 @@
 "use strict";
 window.addEventListener("DOMContentLoaded", function () {
-    //tab Logiq start
+    //tab L  ogiq start
     const tabHeaders = document.querySelectorAll(".tabheader__item");
     const tabContents = document.querySelectorAll(".tabcontent");
     const tabHeaderParent = document.querySelector(".tabheader__items");
@@ -219,5 +219,4 @@ window.addEventListener("DOMContentLoaded", function () {
     // used Class for menu cards => end          
 });
     
-
 
